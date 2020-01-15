@@ -97,6 +97,8 @@ Nesse banco de dados deve-se armazenar as seguintes informações:
 
 ![diagrama-bd](https://user-images.githubusercontent.com/25674507/71759948-8cc54f00-2e94-11ea-95dc-c19b82925738.png)
 
+**Obs**: As tabelas não necessariamente precisam ser como está no diagrama. Lembre-se, o diagrama é apenas um auxílio. Caso seja preciso criar novas tabelas por conta da normalização dos dados, não há problema :D
+
 ### Você deverá:
 
 1. Fazer um fork desse projeto no seu github;
