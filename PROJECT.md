@@ -14,6 +14,7 @@ Foram criadas 8 tabelas sendo algumas subdividas com intuito de facilitar e gara
 de alguns casos como e-mail e telefone era possivel fazer uma subdivisão mais elaborado neles mas devidas circunstâncias acabei por 
 deixa-las de um jeito mais prático para gerenciar.
 
+Segue o script SQL para criação das tabelas no repositório, arquivo: "clima_tempo_create.sql" importe ou copie e cole o conteúdo. O diagrama da modelagem também segue no repositório.
 
 Foi realizados as operações de insert e select no banco para quando realizarem o teste poderia seguir os exemplos de como foi realizado
 no arquivo: 'desafio.py' Por conta do tempo disponível que tive fiz apenas o básico de ler e o arquivo e inserir, eu poderia faze-lo
