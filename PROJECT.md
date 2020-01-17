@@ -25,12 +25,14 @@ $ cd challenge-accepted-data-analysis/
 $ docker build -t analisador_xlsx .
 $ docker run --rm analisador_xlsx
 ```
+O arquivo processado .json está no docker nescessitando fazer docker cp para pegar arquivos dentro do docker.
 
 3. Caso deseje rodar localmente basta ter o pip instalar e rodar o seguinte comando.
 ```
 $ pip install -r requirements.txt  .
-$ python run.py
+$ python3 run.py
 ```
+O arquivo .json estara na pasta /processed.
 
 
 ### Você deverá:
@@ -43,7 +45,7 @@ $ python run.py
 
 Resolvi desenvolver um script que pega arquivos .xlsx no momento e transforma em .json. Para fazer um arquivo sql utilizaria a biblioteca **psycopg2**. 
 
-Achei interessante utilizar isso como a vaga "Inclusão, exclusão e alteração de grande massa de dados via arquivos (Excel, CSV, JSON ou similar)" achei que no futuro possa se usar o conceito de  ***messageria *** e  ***kafka *** pra ficar processando arquivos(Excel, CSV, JSON ou similar) e mandando para o kafka e depois fazer outro app em docker que pegasse do kafka e mandaria pro Postgres. 
+Achei interessante utilizar isso como a vaga "Inclusão, exclusão e alteração de grande massa de dados via arquivos (Excel, CSV, JSON ou similar)" achei que no futuro possa se usar o conceito de  ***messageria*** e  ***kafka*** pra ficar processando arquivos(Excel, CSV, JSON ou similar) e mandando para o kafka e depois fazer outro app em docker que pegasse do kafka e mandaria pro Postgres. 
 
 4. Desenvolver um script em **Python** ou **Nodejs** para realizar a inserção dos dados do arquivo **contacts.xlsx** no banco de dados; :heavy_check_mark:
 
