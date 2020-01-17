@@ -49,18 +49,17 @@ def line_line_to_bd(wb):
 
                 for name_columns in columns:
                     data[name_columns] = row_values[c]
-                    data_list.append(data)
                     c += 1
 
                 data_list.append(data)
                 show_json_file = json.dumps(data)
-
                 print(show_json_file)
 
         except Exception as e:
                 print("for rownum in range(x, sh.nrows): error ==>", e)
         # Serialize the list of dicts to JSON
         finally:
+
             j = json.dumps(data_list)
             save_json_file(j)
 
