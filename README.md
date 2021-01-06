@@ -12,14 +12,6 @@ ___
 Olá desenvolvedor, pronto para participar do nosso
 processo de recrutamento para vaga de Estágio em Análise de Dados?
 
-### Sobre a Vaga
-
-- Empresa: Climatempo;
-- Bolsa auxílio – R$ 1.200,00;
-- Horário: das 8h às 15h com 1h de almoço (30 horas semanais em horário comercial);
-- Benefícios – auxílio transporte de R$ 200,00 + VR;
-- Local: Parque Tecnológico - São José dos Campos (http://www.pqtec.org.br/).
-
 
 ### Atividades que serão desenvolvidas:
 
