@@ -103,7 +103,7 @@ Nesse banco de dados deve-se armazenar as seguintes informações:
 
 5. Nos enviar um pull request contendo o arquivo **.sql** com a criação das tabelas, o **script** criado para realizar a inserção no banco e um arquivo em markdown chamado **PROJECT.md** contando um pouco sobre o seu desenvolvimento para o teste e como podemos testá-lo :D
 
-6. Envie um e-mail para **curriculo@climatempo.com.br** com seu **currículo** com o assunto: **Vaga de Estágio - Análise de Dados** e o **link do seu pull request**.
+6. Preencha o [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfPIwojh04iSxIrrOJSyrMvYcStLpoO3luR11ZxBY_pkWsjGA/viewform).
 
 
 Boa sorte!
